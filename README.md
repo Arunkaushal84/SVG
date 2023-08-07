@@ -30,14 +30,11 @@ run `npm test` to Validate tests are getting passed.
  MIT License
 
 ## Contributor
-`Amritpal Kaur`
+Arun Kaushal
 You are free to Contribute or Collaborate with me by posting Github Issues or Drop me and Email.
 
 ## Tests
 test video -https://drive.google.com/file/d/1VchEqjddPjlmLj6nbTIVb5sKdaPmpYgy/view
 
-## Questions
-For any Queries , Please reach out to me at -
- * Github -[https://github.com/Amritpal-Kaur0]
- * Email -amrit.gill3005@gmail.com
+
 
