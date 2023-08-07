@@ -16,7 +16,9 @@ This is  Node.js command-line application that takes in user input to generate a
 
 There is a walkthrough video that demonstrates its functionality and passes all of the tests. 
 
-![2023-05-17](https://github.com/Amritpal-Kaur0/SVG-Generator-/assets/128442182/09c0ab82-e4d3-4140-947b-7194850061af)
+![image](https://github.com/Arunkaushal84/SVG/assets/122054710/26cd634a-f3b3-4c2e-8a3c-ab7ef79278ea)
+
+
 
 ## Installation
 install `inquirer `
@@ -34,7 +36,7 @@ Arun Kaushal
 You are free to Contribute or Collaborate with me by posting Github Issues or Drop me and Email.
 
 ## Tests
-test video -https://drive.google.com/file/d/1VchEqjddPjlmLj6nbTIVb5sKdaPmpYgy/view
+test video -https://drive.google.com/file/d/1dYS_IgGV-4BLcUDY0ucdqrrQG8xTb89K/view?usp=sharing
 
 
 
